@@ -1,7 +1,6 @@
 //-----------------------------------------------------
 //Title: Q2 - CDRC System
 //Author: Abdallah Ghordlo and Hussein Abdikarim
-//ID: 99372535586 (Abdallah) 
 //Description: In this question, we had to create a system for a chauffeur-driven rental company.
 // This class takes a txt-file as input and reads the file that should contain multiple lines that have specific commands, and the information 
 // necessary to call that command, after it. After analyzing the line and storing the information in different variables, the chosen command is called with 
